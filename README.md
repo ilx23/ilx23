@@ -5,25 +5,23 @@
 </div>
 
 </br>
-</br>
-</br>
 
 ## 👋 Introduction
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=secretlzm007&color=7BB32E&logo=wechat) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
 
 Hi guys, I'm **Ilia Keshavarz**. I am a junior Python developer from Qazvin, Iran. 
 I have some works with **Python**, **Tkinter**, **Turtle** and **Pandas**, contact me if you have the same interests or some questions!
 
+<br><br><br>
 
 # About ME 💬 :
 
 ### - I'm 14 years old Python Developer.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="icons/35467.gif">
 
 ### - Learning :
 - ✨ Advanced Python
@@ -47,11 +45,10 @@ I have some works with **Python**, **Tkinter**, **Turtle** and **Pandas**, conta
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="icons/python icon.ico" alt="python" width="60" hight="50">
+<img src="icons/linux.png" alt="linux" width="60" hight="50">
+<img src="icons/manjaro-icon-2048x2048-v1i92etv.png" alt="manjaro" width="60" hight="50">
+<img src="icons/PyCharm_Icon.svg.png" alt="pycharm" width="60" hight="50">
 </p>
 </br>
 </br>
@@ -72,6 +69,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <a href="mailto:ashutosh.saxena.2001@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
