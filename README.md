@@ -47,8 +47,6 @@ I have some works with **Python**, **Tkinter**, **Turtle** and **Pandas**, conta
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="icons/python icon.ico" alt="python" width="60" hight="50">
 <img src="icons/linux.png" alt="linux" width="60" hight="50">
-<img src="icons/manjaro-icon-2048x2048-v1i92etv.png" alt="manjaro" width="60" hight="50">
-<img src="icons/PyCharm_Icon.svg.png" alt="pycharm" width="60" hight="50">
 </p>
 </br>
 </br>
