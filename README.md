@@ -16,6 +16,8 @@ I have some works with **Python**, **Tkinter**, **Turtle** and **Pandas**, conta
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="icons/python icon.ico" alt="python" width="60" hight="50">
+<img src="icons/Golang.png" alt="golang" width="100" hight="100">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/7d3638df816371316cd2c0ce869120d6e009bbcd/icons/cplusplus.svg" alt="golang" width="60" hight="50">
 <img src="icons/linux.png" alt="linux" width="60" hight="50">
 </p>
 </br>
